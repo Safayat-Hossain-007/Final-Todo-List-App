@@ -1,0 +1,4 @@
+#Fri Mar 15 20:49:03 BDT 2024
+base.0=/home/safayat/Desktop/All my projects/Submission/flutter_riverpod_todo_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
